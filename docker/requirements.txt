@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+Pillow
+python-telegram-bot==20.5
+ultralytics
+nest_asyncio
